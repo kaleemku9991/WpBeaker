@@ -1,0 +1,36 @@
+
+header nav img{
+  width: 80px;
+}
+header nav ul li{
+  margin: 0 10px;
+}
+header nav ul li img{
+  width: 5px;
+  margin: 0 2px;
+}
+header nav .nav-right-button{
+  padding: 5px 12px;
+}
+.green-div{
+  display: none;
+}
+.section1 .section1-start-div {
+  margin-bottom: 65px;
+}
+.section2 .section2-1st-div p{
+  margin-left: -10px;
+}
+.section4-main-div .professional-section4 hr {
+  width: 585px;
+}
+.section4-main-div p {
+  padding-right: 0px;
+  text-align: center;
+}
+.section6 form input{
+  width: 630px;
+}
+.footer-div5 {
+  padding-right: 10px;
+}

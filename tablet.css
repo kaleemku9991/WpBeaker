@@ -1,0 +1,159 @@
+header .showcase .right-div-showcase img {
+  display: none;
+}
+header .showcase .left-div-showcase {
+  padding: 1px 0px 0px 15px;
+  margin-bottom: 45px;
+}
+header .showcase {
+  display: block;
+}
+.section1 .section1-start-div h2 {
+  font-size: 65px;
+}
+.section1 .section1-start-div p {
+  line-height: 35px;
+  font-size: 18px;
+}
+.section1 .section1-boxes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+.section1 .section1-boxes .section1-box-div {
+  grid-template-rows: 6fr 1fr 2fr 2fr;
+}
+.section2 .section2-1st-div h2 {
+  font-size: 50px;
+}
+.section2 .section2-1st-div p {
+  margin-left: 0px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 26px;
+}
+.section1 .section1-boxes .section1-box-div .black-div {
+  margin: 10px 15px;
+}
+.section1 .section1-boxes .section1-box-div h4, .section1 .section1-boxes .section1-box-div p {
+  margin: 0 15px;
+}
+.section3 {
+  margin-top: -195px;
+}
+.section3 .section3-div-1 h1 {
+  margin-top: 30px;
+  font-size: 54px;
+}
+.section3 .section3-div-1 h2 {
+  margin-top: 30px;
+  font-size: 50px;
+}
+.section3 .section3-div-1 p {
+  font-size: 20px;
+  padding-right: 56px;
+  line-height: 37px;
+}
+.section3 .slider-divs .slider-div {
+  margin: 8px;
+}
+.section3 .two-divs {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.section4-main-div  hr {
+  width: 380px;
+}
+.acordian__button {
+  font-size: 18px;
+}
+.section4-main-div h2 {
+  font-size: 60px;
+  margin: 70px 0;
+}
+.section4-main-div .wordpress-brand {
+  font-size: 56px;
+}
+.section4-main-div .wp-logos {
+  display: flex;
+  flex-direction: column;
+}
+.wp-logos img {
+  width: 205px;
+  margin: 25px auto;
+}
+.section5-main-div .section5-buttons a {
+  padding-right: 10px;
+  font-size: 18px;
+  height: 100px;
+}
+
+.section5-main-div h2 {
+  margin: 0px 0px 20px 0px;
+  font-size: 70px;
+}
+.section5-main-div p {
+  text-align: center;
+  line-height: 30px;
+  margin-bottom: 26px;
+  font-size: 13px;
+}
+.section5-main-div .section5-buttons {
+  margin: 70px 0px 40px 0;
+  text-align: center;
+}
+.section6 h2 {
+  font-size: 46px;
+  margin-top: 30px;
+}
+.section6 form label {
+  font-size: 50px;
+}
+.section6 form input {
+  width: 350px;
+  font-size: 30px;
+}
+.section6 form {
+  margin: 100px 0 50px 0;
+  justify-content: center;
+}
+.section6 form i{
+  font-size: 25px;
+}
+.section6-main {
+  margin-bottom: 70px;
+}
+.footer {
+  margin-top: 100px;
+}
+.footer a{
+  font-size: 10px;
+}
+.footer .footer-div1 img {
+  width: 110px;
+  margin: 0 0 20px 0;
+}
+.footer .footer-div1 p{
+  margin: 10px;
+  font-size: 10px;
+}
+.footer-sub-main {
+  margin-top: 20px;
+}
+.footer i {
+  margin: 10px 5px 10px 5px;
+}
+.copy {
+  width: 55%;
+  text-align: end;
+}
+.privacy a{
+ font-size: 10px !important;
+}
+.copy p{
+ font-size: 10px;
+}
+.terms {
+  margin-bottom: 70px;
+  margin-top: 50px;
+}
